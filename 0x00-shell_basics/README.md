@@ -1,1 +1,1 @@
-changes to home directory
+scripts that prints linux commands
